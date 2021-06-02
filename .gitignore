@@ -1,0 +1,26 @@
+-r--r--r--  1 moringa  staff  109 Jul 20 09:24 ./.git/objects/46/25b861f6663e9661307d58ebf89534a4dcd6dc
+-r--r--r--  1 moringa  staff  115 Jul 20 09:24 ./.git/objects/00/b936f6f388e8b9b3c5a66e44c2069a0c8c2353
+-r--r--r--  1 moringa  staff  116 Jul 20 08:44 ./.git/objects/26/09e809dfffb33985e20447752c43c35e7e1294
+-r--r--r--  1 moringa  staff  116 Jul 20 09:24 ./.git/objects/1e/f1c9fea3a9f8010c51fe048470a3676d7c5605
+-r--r--r--  1 moringa  staff  135 Jul 20 08:44 ./.git/objects/75/7fc49dc6d7b226e76ab84bb64d29be70c271fb
+-r--r--r--  1 moringa  staff  139 Jul 20 08:44 ./.git/objects/25/4ad75d0203fd3c458ef3c0e6270f0a8535ee6b
+-r--r--r--  1 moringa  staff  152 Jul 20 09:24 ./.git/objects/73/7104ca100fd8cc634a3163523e6ed5278af3ba
+-r--r--r--  1 moringa  staff  155 Jul 20 08:44 ./.git/objects/94/a25f7f4cb416c083d265558da75d457237d671
+-r--r--r--  1 moringa  staff  174 Jul 20 08:44 ./.git/objects/db/cc811dfe5e619f1cd780259ff6038b706eb0be
+-r--r--r--  1 moringa  staff  184 Jul 20 08:44 ./.git/objects/74/ef89062d598290c8dc9ba60aed850d04904b18
+-r--r--r--  1 moringa  staff  185 Jul 20 09:24 ./.git/objects/fb/f55a850e44a5cc0f4dceadcd4c502b4aae3b9f
+-r--r--r--  1 moringa  staff  193 Jul 20 08:47 ./.git/objects/b8/065e42b4e8d8e198473e076887d480914a101c
+-r--r--r--  1 moringa  staff  218 Jul 20 09:24 ./.git/objects/28/bd20a2d5877168073433c72da5b4ab06727a98
+-r--r--r--  1 moringa  staff  546 Jul 20 08:47 ./.git/objects/d3/b7741a1a95e76a796f641982edb6dca0146ec5
+-r--r--r--  1 moringa  staff  86 Jul 20 08:44 ./.git/objects/7c/3fefb6c30ad34fc532d76b4486fd23305c148f
+-rw-r--r--  1 moringa  staff  537 Jul 20 08:46 ./.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xmlmsg.sample
+-rwxr-xr-x  1 moringa  staff  1348 Jul 20 08:44 ./.git/hooks/pre-push.sample
+-rwxr-xr-x  1 moringa  staff  1642 Jul 20 08:44 ./.git/hooks/pre-commit.sample
+-rwxr-xr-x  1 moringa  staff  189 Jul 20 08:44 ./.git/hooks/post-update.sample
+-rwxr-xr-x  1 moringa  staff  3610 Jul 20 08:44 ./.git/hooks/update.sample
+-rwxr-xr-x  1 moringa  staff  424 Jul 20 08:44 ./.git/hooks/pre-applypatch.sample
+-rwxr-xr-x  1 moringa  staff  478 Jul 20 08:44 ./.git/hooks/applypatch-msg.sample
+-rwxr-xr-x  1 moringa  staff  4951 Jul 20 08:44 ./.git/hooks/pre-rebase.sample
+-rwxr-xr-x  1 moringa  staff  5299 Jul 20 08:46 ./gradlew
+-rwxr-xr-x  1 moringa  staff  896 Jul 20 08:44 ./.git/hooks/commit-msg.sample
+[...]
